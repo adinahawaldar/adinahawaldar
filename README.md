@@ -3,16 +3,20 @@
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
 
-<!-- 🧠 TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Front-end+Web+Dev+%7C+Cloud+Explorer+%7C+AI+Learner;Transforming+Ideas+into+Digital+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
+<p align="center">
+  <strong>💻 Front-end Web Dev &nbsp; | &nbsp; ☁️ Cloud Explorer &nbsp; | &nbsp; 🤖 AI Learner</strong>
 </p>
 
-<!-- DEV ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <em>💡 Transforming Ideas into Digital Reality</em>
 </p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Girl Coding GIF" />
+</p>
+
+
 
 
 
@@ -29,33 +33,59 @@
 
 ---
 
-### 🧠 Tech Stack
+<!-- 🌌 TECH STACK SECTION WITH PROPER CENTERING -->
 
+<!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,mysql,git,figma,vscode,aws,linux" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=🧠%20My%20Tech%20Stack&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</p>
+
+<!-- 🖥️ LANGUAGES -->
+<h3 align="center">🖥️ Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp" alt="Languages" />
+</p>
+
+<!-- 🧰 TOOLS & IDES -->
+<h3 align="center">🧰 Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma" alt="Tools and IDEs" />
+</p>
+
+<!-- ☁️ CLOUD & PLATFORMS -->
+<h3 align="center">☁️ Cloud & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,mysql" alt="Cloud and Platforms" />
+</p>
+
+<!-- Bottom Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=footer" />
 </p>
 
 
 ---
-<!-- 🚀 GITHUB STATS - NEXT LEVEL -->
+
+<!-- 🚀 GITHUB STATS - NEXT LEVEL (Clean Version) -->
 <h2 align="center">📊 My GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&icon_color=00ffcc" alt="Adina's GitHub Stats" />
 </p>
 
+---
+
+
+<!-- 🌟 GITHUB STATS SECTION (Professional Style) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adinahawaldar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff61a6&fire=ff61a6&currStreakLabel=00ff99" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&theme=github_dark&hide_title=true&hide_border=false&card_width=500" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinahawaldar&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=15&title_color=00ffff" alt="Top Languages Used" />
-</p>
 
-<!-- 🏆 GITHUB TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adinahawaldar&theme=onestar&margin-w=10&margin-h=15&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
+
+---
+
 
 <!-- 🔄 GITHUB ACTIVITY GRAPH -->
 <p align="center">
@@ -64,6 +94,9 @@
 
 <!-- 🧠 PERSONAL MOTTO -->
 <p align="center"><em>“Consistency builds legacy, not just code.”</em></p>
+
+---
+
 
 ### 🤝 Let's Connect
 
