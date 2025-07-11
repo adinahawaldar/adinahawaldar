@@ -5,7 +5,8 @@
 
 <!-- 🧠 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Front-end+Web+Dev+%7C+Cloud+Explorer+%7C+AI+Learner;Transforming+Ideas+into+Digital+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Front-end+Web+Dev+%7C+Cloud+Explorer+%7C+AI+Learner;Transforming+Ideas+into+Digital+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+
 </p>
 
 <!-- DEV ANIMATION -->
