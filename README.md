@@ -1,11 +1,7 @@
 <h1 align="center">🌟 Hey there, I'm <span style="color:#7b2cbf;">Adina Hawaldar</span>!</h1>
 <h3 align="center">A Curious Coder | Cloud Explorer ☁️ | Front-End Dreamer 💻</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20Views&color=7b2cbf&style=flat" />
-  <img src="https://img.shields.io/github/followers/adinahawaldar?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/adinahawaldar?label=Stars&style=social" />
-</p>
+
 
 
 ---
