@@ -2,10 +2,11 @@
 <h3 align="center">A Curious Coder | Cloud Explorer ☁️ | Front-End Dreamer 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adinacodes&label=Profile%20Views&color=7b2cbf&style=flat" alt="adinacodes" />
-  <img src="https://img.shields.io/github/followers/adinacodes?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/adinacodes?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20Views&color=7b2cbf&style=flat" />
+  <img src="https://img.shields.io/github/followers/adinahawaldar?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/adinahawaldar?label=Stars&style=social" />
 </p>
+
 
 ---
 
