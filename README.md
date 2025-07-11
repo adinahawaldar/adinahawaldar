@@ -22,14 +22,39 @@
 
 ---
 
-### ⚡ What I'm Working On
+<!-- 🌟 WHAT I'M WORKING ON SECTION -->
 
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-blueviolet?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20%2F%20ML-black?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web%20Development-brightgreen?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=⚡%20What%20I'm%20Working%20On&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
+
+<!-- Icons + Labels in Table -->
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="50" title="Cloud Computing" /><br/>
+      <b>Cloud Computing</b>
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=webflow" width="50" title="Web Development" /><br/>
+      <b>Web Development</b>
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" width="50" title="UI/UX Design" /><br/>
+      <b>UI/UX Design</b>
+    </td>
+  </tr>
+</table>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=footer" />
+</p>
+
+
 
 ---
 
@@ -66,7 +91,7 @@
 
 ---
 
-<!-- 🚀 GITHUB STATS - NEXT LEVEL (Clean Version) -->
+<!-- 🚀 GITHUB STATS  -->
 <h2 align="center">📊 My GitHub Stats & Activity</h2>
 
 <p align="center">
@@ -76,7 +101,7 @@
 ---
 
 
-<!-- 🌟 GITHUB STATS SECTION (Professional Style) -->
+<!-- 🌟 GITHUB STATS SECTION-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&theme=github_dark&hide_title=true&hide_border=false&card_width=500" alt="GitHub Stats" />
 </p>
@@ -84,28 +109,44 @@
 
 
 
----
 
 
-<!-- 🔄 GITHUB ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adinahawaldar&bg_color=0d1117&color=00ffcc&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Adina's Contribution Graph" />
-</p>
+
 
 <!-- 🧠 PERSONAL MOTTO -->
 <p align="center"><em>“Consistency builds legacy, not just code.”</em></p>
 
 ---
 
+<h3 align="center">🤝 Let's Connect</h3>
 
-### 🤝 Let's Connect
+<br/>
 
 <p align="center">
-  <a href="mailto:adinahawaldar895@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/adina-hawaldar15032025"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/adinahawaldar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <!-- Gmail -->
+  <a href="mailto:adinahawaldar895@email.com">
+    <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/adina-hawaldar15032025">
+    <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/adinahawaldar">
+    <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
+
 
 ---
 
