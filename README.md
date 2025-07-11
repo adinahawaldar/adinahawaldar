@@ -22,14 +22,11 @@
 
 ---
 
-<!-- 🌟 WHAT I'M WORKING ON SECTION -->
 
-<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=⚡%20What%20I'm%20Working%20On&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
-<!-- Icons + Labels in Table -->
 <table align="center">
   <tr align="center">
     <td>
@@ -49,7 +46,6 @@
   </tr>
 </table>
 
-<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=footer" />
 </p>
@@ -65,25 +61,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=🧠%20My%20Tech%20Stack&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
-<!-- 🖥️ LANGUAGES -->
 <h3 align="center">🖥️ Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp" alt="Languages" />
 </p>
 
-<!-- 🧰 TOOLS & IDES -->
 <h3 align="center">🧰 Tools & IDEs</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,figma" alt="Tools and IDEs" />
 </p>
 
-<!-- ☁️ CLOUD & PLATFORMS -->
 <h3 align="center">☁️ Cloud & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,mysql" alt="Cloud and Platforms" />
 </p>
 
-<!-- Bottom Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=footer" />
 </p>
@@ -91,20 +83,12 @@
 
 ---
 
-<!-- 🚀 GITHUB STATS  -->
 <h2 align="center">📊 My GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&icon_color=00ffcc" alt="Adina's GitHub Stats" />
 </p>
 
----
-
-
-<!-- 🌟 GITHUB STATS SECTION-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&theme=github_dark&hide_title=true&hide_border=false&card_width=500" alt="GitHub Stats" />
-</p>
 
 
 
@@ -113,7 +97,9 @@
 
 
 
-<!-- 🧠 PERSONAL MOTTO -->
+
+
+
 <p align="center"><em>“Consistency builds legacy, not just code.”</em></p>
 
 ---
