@@ -37,6 +37,33 @@
 
 
 ---
+<!-- 🚀 GITHUB STATS - NEXT LEVEL -->
+<h2 align="center">📊 My GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&icon_color=00ffcc" alt="Adina's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adinahawaldar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff61a6&fire=ff61a6&currStreakLabel=00ff99" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinahawaldar&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&border_radius=15&title_color=00ffff" alt="Top Languages Used" />
+</p>
+
+<!-- 🏆 GITHUB TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adinahawaldar&theme=onestar&margin-w=10&margin-h=15&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- 🔄 GITHUB ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adinahawaldar&bg_color=0d1117&color=00ffcc&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Adina's Contribution Graph" />
+</p>
+
+<!-- 🧠 PERSONAL MOTTO -->
+<p align="center"><em>“Consistency builds legacy, not just code.”</em></p>
 
 ### 🤝 Let's Connect
 
