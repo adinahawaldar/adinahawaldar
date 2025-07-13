@@ -1,4 +1,3 @@
-<!-- 👑 NAME DISPLAYED PROMINENTLY -->
 <h1 align="center" style="font-weight: bold; font-size: 3em;">
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
@@ -54,9 +53,7 @@
 
 ---
 
-<!-- 🌌 TECH STACK SECTION WITH PROPER CENTERING -->
 
-<!-- Top Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1726&height=100&section=header&text=🧠%20My%20Tech%20Stack&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
@@ -109,25 +106,21 @@
 <br/>
 
 <p align="center">
-  <!-- Gmail -->
   <a href="mailto:adinahawaldar895@email.com">
     <img src="https://img.shields.io/badge/Gmail-1e1e1e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/adina-hawaldar15032025">
     <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
 
-  <!-- GitHub -->
   <a href="https://github.com/adinahawaldar">
     <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
 
-  <!-- Portfolio -->
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
