@@ -121,7 +121,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://yourportfolio.com">
+  <a href=https://adinatech.netlify.app/>
     <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
