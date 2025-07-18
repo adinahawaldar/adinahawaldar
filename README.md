@@ -114,7 +114,6 @@
   <a href="https://linkedin.com/in/adina-hawaldar15032025">
     <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   &nbsp;&nbsp;
 
   <a href=https://adinatech.netlify.app/>
