@@ -2,6 +2,9 @@
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <strong>💻 Front-end Web Dev &nbsp; | &nbsp; ☁️ Cloud Explorer &nbsp; | &nbsp; 🤖 AI Learner</strong>
