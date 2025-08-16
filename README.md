@@ -90,15 +90,23 @@
 
 
 
-<div align="center" style="display: flex; flex-direction: column; gap: 10px; max-width: 500px;">
 
-<!-- Card-like background -->
-<table style="border-radius: 16px; overflow: hidden; border: 2px solid #0ef7ff; background: #1e1e2f;">
+<div align="center">
+
+<!-- Box-style card -->
+<table style="border-radius: 16px; overflow: hidden; border: 2px solid #0ef7ff; background: #1e1e2f; max-width: 500px;">
 <tr>
 <td align="center" style="padding: 20px;">
 
-### Current Streak
-<img src="https://streak-stats.demolab.com?user=adinahawaldar&theme=transparent&hide_border=true&ring=ff6ec7&fire=ff6ec7&currStreakNum=00ff99&sideNums=0ef7ff&currStreakLabel=ff6ec7&sideLabels=00ff99&stroke=00ff99&dates=ffffff&mode=weekly" alt="Current Streak" width="500px" />
+### 🔥 Current Streak
+<img 
+  src="https://streak-stats.demolab.com?user=adinahawaldar&theme=transparent&hide_border=true&mode=monthly&ring=ff6ec7&fire=ff6ec7&currStreakNum=00ff99&sideNums=0ef7ff&currStreakLabel=ff6ec7&sideLabels=00ff99&stroke=00ff99&dates=ffffff" 
+  alt="Current Streak" 
+  width="500px" />
+
+<br/>
+
+
 
 
 
