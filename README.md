@@ -127,14 +127,11 @@
 
 
 
-
 <h2 align="center">📊 My GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adinahawaldar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&icon_color=00ffcc" alt="Adina's GitHub Stats" />
 </p>
-
-
 
 
 
