@@ -100,9 +100,10 @@
 
 ### 🔥 Current Streak
 <img 
-  src="https://streak-stats.demolab.com?user=adinahawaldar&theme=transparent&hide_border=true&mode=monthly&ring=ff6ec7&fire=ff6ec7&currStreakNum=00ff99&sideNums=0ef7ff&currStreakLabel=ff6ec7&sideLabels=00ff99&stroke=00ff99&dates=ffffff" 
+  src="https://streak-stats.demolab.com/?user=adinahawaldar&theme=transparent&hide_border=true&ring=ff6ec7&fire=ff6ec7&currStreakNum=00ff99&sideNums=0ef7ff&currStreakLabel=ff6ec7&sideLabels=00ff99&stroke=00ff99&dates=ffffff" 
   alt="Current Streak" 
   width="500px" />
+
 
 <br/>
 
