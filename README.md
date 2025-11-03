@@ -1,7 +1,6 @@
 <h1 align="center" style="font-weight: bold; font-size: 3em;">
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
