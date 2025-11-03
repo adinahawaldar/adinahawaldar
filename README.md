@@ -1,21 +1,10 @@
 <h1 align="center" style="font-weight: bold; font-size: 3em;">
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="center">
-  <strong>💻 Front-end Web Dev &nbsp; | &nbsp; ☁️ Cloud Explorer &nbsp; | &nbsp; 🤖 AI Learner</strong>
-</p>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadinahawaldar348d2.png?alt=media)
 
-<p align="center">
-  <em>💡 Transforming Ideas into Digital Reality</em>
-</p>
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Girl Coding GIF" />
-</p>
 
 
 
