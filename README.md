@@ -2,7 +2,30 @@
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadinahawaldar348d2.png?alt=media)
+
+
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250" alt="Girl Coding" />
+</p>
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5e/3c/8f/5e3c8f6d622eaaad2bdfc2bdeea4f9d7.gif" width="200" alt="girl-coding-gif"/>
+</p>
+
+<p align="center">
+  <a title="Data Science Student"><img src="https://img.shields.io/badge/-Data%20Science%20Student-1e1e1e?style=for-the-badge&logo=python&logoColor=00ffcc" /></a>
+  <a title="Machine Learning"><img src="https://img.shields.io/badge/-Machine%20Learning-1e1e1e?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" /></a>
+  <a title="Deep Learning"><img src="https://img.shields.io/badge/-Deep%20Learning-1e1e1e?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" /></a>
+  <a title="Data Visualization"><img src="https://img.shields.io/badge/-Data%20Visualization-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3f4f75" /></a>
+  <br>
+  <a title="Cloud Computing"><img src="https://img.shields.io/badge/-Cloud%20Computing-1e1e1e?style=for-the-badge&logo=googlecloud&logoColor=4285F4" /></a>
+  <a title="Web Development"><img src="https://img.shields.io/badge/-Web%20Development-1e1e1e?style=for-the-badge&logo=react&logoColor=61dafb" /></a>
+  <a title="UI/UX Design"><img src="https://img.shields.io/badge/-UI%2FUX-1e1e1e?style=for-the-badge&logo=figma&logoColor=ff66b2" /></a>
+</p>
+
+
 
 
 
