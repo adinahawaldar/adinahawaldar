@@ -173,7 +173,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href=https://adinatech.netlify.app/>
+  <a href=https://www.adinaa.me/>
     <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
