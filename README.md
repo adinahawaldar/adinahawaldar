@@ -2,6 +2,10 @@
   👋 Hii, I'm <span style="color:#00FF00;">Adina Hawaldar</span>
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adinahawaldar&label=Profile%20Views&color=00ff99&style=flat" alt="Profile views" />
+</p>
+
 
 
 
